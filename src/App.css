@@ -1,0 +1,11 @@
+.o-contact, .o-titleTable{
+  display: flex;
+  gap: 50px;
+  justify-content: space-around;
+    align-items: center;
+}
+
+.t-todo{
+  display: flex;
+  justify-content: space-around;
+}
